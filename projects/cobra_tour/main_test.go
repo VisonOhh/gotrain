@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/agiledragon/gomonkey"
+	"github.com/gotrain/projects/cobra_tour/cmd"
 	"github.com/stretchr/testify/assert"
-	"github.com/visonohh/gotrain/cobra_tour/cmd"
 )
 
 const (
