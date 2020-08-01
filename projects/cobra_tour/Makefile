@@ -1,5 +1,5 @@
 # Go parameters
-GOBUILD=go build
+GOBUILD=go build -v
 GOCLEAN=go clean
 GOTEST=gotestsum --format short-verbose --no-summary=output --junitfile unit-tests.xml --
 
