@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/gotrain/projects/cobra_tour/internal/timer"
 	"github.com/spf13/cobra"
-	"github.com/visonohh/gotrain/cobra_tour/internal/timer"
 )
 
 const (

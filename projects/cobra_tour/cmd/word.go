@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
+	"github.com/gotrain/projects/cobra_tour/internal/word"
 	"github.com/spf13/cobra"
-	"github.com/visonohh/gotrain/cobra_tour/internal/word"
 )
 
 const (

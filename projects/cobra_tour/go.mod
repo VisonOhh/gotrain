@@ -1,4 +1,4 @@
-module github.com/visonohh/gotrain/cobra_tour
+module github.com/gotrain/projects/cobra_tour
 
 go 1.14
 

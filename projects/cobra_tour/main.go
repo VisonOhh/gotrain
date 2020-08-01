@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/visonohh/gotrain/cobra_tour/cmd"
+	"github.com/gotrain/projects/cobra_tour/cmd"
 )
 
 func main() {
